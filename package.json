@@ -1,0 +1,16 @@
+{
+  "name": "mylearn",
+  "version": "1.0.0",
+  "description": "ishu mass",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "ishu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}
