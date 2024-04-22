@@ -1,7 +1,8 @@
 const express = require('express')
 const productRouter  = require("./routes/productRoutes")
 const app = express()
-const port = 4000
+
+
 
 // middleware
 
